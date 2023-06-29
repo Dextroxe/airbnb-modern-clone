@@ -85,7 +85,6 @@ const Modal: React.FC<ModalProps> = ({ isOpen, onClose, onSubmit, title, body, f
                  my-6
                  mx-auto 
                  h-full 
-                 lg: h-auto 
                  md:h-auto'>
 
 
